@@ -1,0 +1,375 @@
+.head{
+  width: 100%;
+  height: 62px;
+   position: fixed;
+ 
+  text-align: center;
+  display: flex;
+  font-size: initial;
+  background-color: white;
+  
+  z-index: 2;
+}
+body{
+    overflow-x: hidden;
+    margin: 0%;
+    padding: 0%;
+    background-color: #F2F6F7;
+    width: 100%;
+    font-family: "RedditSans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.img1{
+    
+   position: absolute;
+   left:20px;
+   top: -16px;
+}
+.head1{
+    width: 120px;
+    height:50px;
+}
+.head2{
+    font-size: 12px;
+    line-height: 1.29;
+    padding-top: 16px;
+    padding-bottom: 20px;
+     line-height: 1.29;
+    
+
+}
+.Gbody{
+   width: 100%;
+   height: 200vh;
+  
+   display: flex;
+   
+
+
+}
+.partone{
+    width: 34%;
+    margin-top: 303px;
+    
+    
+}
+.parttwo{
+    width: 33%;
+    position: relative;
+    left: 125px;
+    
+    position: relative;
+    top: 560px;
+    user-select: auto;
+    align-items: center;
+    position: relative;
+    user-select: auto;
+    
+}
+
+.parttwo h1{
+     text-align: center;
+}
+.partthree{
+       width: 33%;
+    
+    margin-left: 305px;
+    padding-top: 63px;
+}
+.partthree img{
+    padding-left: 204px;
+}
+h5{
+
+    font-size: 16px;
+    line-height: 1.44;
+}
+.parttwo img{
+    padding-left: 200px;
+}
+.gbody2{
+
+    position: absolute;
+   
+    left: 608px;
+    top: 1222px;
+    min-height: auto;
+    overflow: auto;
+    text-align: center;
+    font-family: "RedditSans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 700;
+    margin: 0 0 0.5em;
+    color: inherit;
+    font-feature-settings: "ss01";
+    max-width: 575px;
+}
+.gbody2 button{
+
+    width: 10px;
+    border-radius: 19.5px;
+    font-size: 13px;
+    background-color: #ff4500;
+    width: 146px;
+    height: 33px;
+    line-height: 1;
+    color: #fff;
+    border-color: #fff;
+}
+.gbody3{
+    position: relative;
+    padding-left: 487px;
+    bottom: 290px;
+}
+.gbody4{
+    width: 847px;
+    height: 200px;
+    margin-left: 507px;
+    margin-top: -185px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.gbod4ypart1{
+
+    width: 270px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    
+    line-height: 1.57;
+}
+.gbod4ypart3{
+
+    width: 270px;
+   height: 200px;
+   background-color:white;
+   text-align: center;
+    line-height: 1.57;
+}
+.gbod4ypart2{
+
+    width: 270px;
+   height: 200px;
+   background-color: white;
+   text-align: center;
+    
+    line-height: 1.57;
+}
+.gbod4ypart1 h4 {
+    padding-left: 80px;
+}
+.gbod4ypart3 h4 {
+    padding-left: 80px;
+}
+.gbody5{
+    width: 100%;
+    height: 60vh;
+    background-color: #D2DDDF;
+}
+.gbody5part1{
+    width: 100%;
+    height: 30vh;
+    
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 86px;
+    position: relative;
+    left: 334pxpx;
+}
+.gbody5part2{
+
+    width: 600px;
+    height: 180px;
+    margin-left: 507px;
+    margin-top: -110px;
+    margin-bottom: 80px;
+    display: flex;
+    position: relative;
+    left: 100px;
+    background-color: #D2DDDF;
+    justify-content:space-between;
+   
+}
+.gbody5part2a{
+
+
+    width: 180px;
+    height:180px;
+   background-color: white;
+    text-align: center;
+}
+.gbody5part2b{
+
+
+    width: 180px;
+    height:180px;    
+    text-align: center;
+    background-color: white;
+}
+   
+.gbody5part2c{
+
+
+    width: 180px;
+    height:180px;
+    text-align: center;
+    background-color: white;
+}
+
+.gbody5part2a img{
+    padding-left: 55px;
+    padding-top: 15px;
+}
+.gbody5part2b img{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.gbody5part2c img{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.gbody5part2a h1{
+  color:#ff4500 ;
+}
+.gbody5part2b h1{
+    color:#ff4500 ;
+  }
+  .gbody5part2c h1{
+    color:#ff4500 ;
+  }
+  .gbody5part3 button{
+
+    border-radius: 19.5px;
+    font-size: 15px;
+    background-color: #ff4500;
+    width: 160px;
+    height: 40px;
+    line-height: 1;
+    color: #fff;
+    border-color: #fff;
+    
+  }
+  .gbody5part3{
+      position: relative;
+     background-color: #D2DDDF;
+     padding-left: 830px;
+  }
+  .gbody6part1{
+      position: relative;
+      left: 830px;
+  }
+  .gbody6part2{
+
+    width: 869px;
+    height: 37vh;
+    position: relative;
+    left: 452px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gbody6part2a,.gbody6part2b{
+    width: 425px;
+    height: 37vh;
+    text-align: center;
+    border: 1px solid rgb(11, 11, 12);
+  box-sizing: border-box;
+}
+.gbody6part2b{
+    width: 425px;
+    height: 37vh;
+  
+    border: 1px solid rgb(2, 2, 26);
+  box-sizing: border-box;
+}
+.gbody6part2a h6 , .gbody6part2b h6{
+    padding-left: 300px;
+}
+.gbody6part3 button{
+
+position: relative;
+left: 820px;
+top: 40px;
+border-radius: 19.5px;
+font-size: 15px;
+background-color: #ff4500;
+width: 160px;
+height: 40px;
+line-height: 1;
+color: #fff;
+border-color: #fff;
+}
+.gbody7{
+
+    width: 100%;
+    height: 15vh;
+    background-color:#F2F6F7;
+}
+
+.gbody8{
+
+width: 100%;
+height: 45vh;
+background-color: #7A9299;
+display: flex;
+}
+.gbody5part3 button{
+    top: -40px;
+    position: relative;
+}
+.gbody8part1{
+
+   height: 35vh;
+   width: 705px;
+   
+   position: relative;
+   left: 65vh;
+   display: flex;
+   flex-direction: row;
+   
+
+}
+
+
+
+.gbody8part1b,.gbody8part1c,.gbody8part1d ,.gbody8part1a{
+    flex: 1;
+    height: 35vh;
+    
+    font: 14px/1.43 "RedditSans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #fff;
+    line-height: 53px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+}
+
+
+
+.gbody8part2 img {
+
+    position: relative;
+    left: 709px;
+    bottom: 80px;
+    background-color: #7A9299;
+    position: relative;
+    left: 709px;
+    bottom: 80px;
+    background-color: #7A9299;
+
+
+
+
+
+}
+.bottomimage{
+
+    position: absolute;
+    left: 75vh;
+    top: 471vh;
+    
+}
+.parttwo h5 {
+    text-align: center
+}
